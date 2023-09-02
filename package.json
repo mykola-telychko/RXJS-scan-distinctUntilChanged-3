@@ -1,0 +1,8 @@
+{
+  "name": "typescript-lb8aw9",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "6.2.2"
+  }
+}
